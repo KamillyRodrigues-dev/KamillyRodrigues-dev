@@ -1,7 +1,7 @@
 ## Oi, eu sou a Kamilly 👋
 
 💻 Desenvolvedora Front-end em formação  
-🎓 Técnica em Informática para Internet (ETEC)  
+🎓 Cursando ADS na FATEC 
 🌍 Inglês avançado — TOEIC 91/100 
 
 ### 🚀 Tecnologias
