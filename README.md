@@ -2,6 +2,7 @@
 
 💻 Desenvolvedora Front-end em formação  
 🎓 Cursando ADS na FATEC 
+
 🌍 Inglês avançado — TOEIC 91/100 
 
 ### 🚀 Tecnologias
